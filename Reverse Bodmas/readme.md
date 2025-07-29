@@ -33,11 +33,11 @@ Output a single integer: the final result after evaluating the expression using 
 
 ## Sample Test Cases
 1. Input:
-   ``10 * 4 +2``
+   ``10 * 4 + 2``,
    Output:
    ``60``
 
 2. Input:
-   ``8 + 2 * 3 - 4 / 2``
+   ``8 + 2 * 3 - 4 / 2``,
    Output:
    ``-5``
