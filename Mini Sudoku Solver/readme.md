@@ -1,3 +1,4 @@
+# Mini Sudoku Solver
 ## Problem Statement
 1. Given a 4x4 unsolved sudoku (in the form of a 2D list), which has 4 subsections of size 2x2, write a program that solves the sudoku 
 2. Zeroes in the list represent empty spaces

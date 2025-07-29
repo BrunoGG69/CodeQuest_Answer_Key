@@ -1,3 +1,4 @@
+# Number that Rearranges Itself
 ## Problem Statement
 There is a special number with less than 9 digits, with which if you multiply any integer from 2 to 6 (inclusive), the product is simply a rearrangement of the digits in the original number,
 i.e.
