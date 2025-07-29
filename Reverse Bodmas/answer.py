@@ -20,7 +20,7 @@ def perform_operation(exp_or_smth_idk, operators):
             i += 1
     return exp_or_smth_idk
 
-for q in ['+', '-', '*', '/']:
-    expression = perform_operation(expression, [q])
+for op in ['+', '-', '*', '/']:
+    expression = perform_operation(expression, [op])
 
 print(expression[0])
