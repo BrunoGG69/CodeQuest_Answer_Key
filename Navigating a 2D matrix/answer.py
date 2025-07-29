@@ -4,9 +4,7 @@ grid = [
     ['I', 'J', 'K', 'L'],
     ['M', 'N', 'O', 'P']
 ]
-
-# Reading the instructions as a string of digits
-instructions = input("Input the instructions").strip()
+instructions = input("Input the instructions : ").strip()
 
 # Mapping the Coordinates: 0 = Left, 1 = Right, 2 = Up, 3 = Down
 moves = {
@@ -15,8 +13,6 @@ moves = {
     '2': (-1, 0),
     '3': (1, 0)
 }
-
-# Initial Cursor Start Position
 x, y = 0, 0
 output = []
 
